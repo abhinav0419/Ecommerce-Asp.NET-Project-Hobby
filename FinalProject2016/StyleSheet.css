@@ -1,0 +1,89 @@
+﻿body 
+{
+    background-color: black;
+    background-image: url(images/halloween_background.gif);
+    color:  black; 
+
+}
+#main
+{
+    background-color: White;
+    color: black; 
+    width: 925px;
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+section {
+    width: 563px;
+    float:  left; 
+    padding: 15px;
+
+}
+
+aside
+{
+    width: 300px; 
+    float: left;
+    text-align: center;
+    padding-top:  31px; 
+}
+
+h3
+{
+    background-color: Black; 
+    color: white; 
+    font-size:49px;
+    font-family: Chiller, 'Juice ITC', Fantasy;
+    font-weight: 900; 
+    font-variant: small-caps;
+    text-align: center;
+}
+.button
+{
+	  font-weight: 600; 
+	  border: lightgray solid 1px;
+	  border-radius: 5px;
+	  box-shadow: 4px 4px 8px darkslategray;
+}
+.topbutton
+{
+	  font-weight: 600; 
+	  border: lightgray solid 1px;
+	  border-radius: 5px;
+	  box-shadow: 4px 4px 8px darkslategray;
+      margin-bottom: 6px; 
+}
+
+img.Product
+{
+    margin-top: 150px;
+    margin-left: 100px; 
+    float: left;
+}
+
+td
+{
+    padding: 5px; 
+}
+
+td.description
+{
+    vertical-align: top;
+    height: 36px; 
+}
+	
+#lstCart { 
+    height: 135px;
+    width: 300px;
+    margin: 0 0 1em;
+    padding: 1em;
+    float: left;
+}
+
+/* The styles for the div and buttons below the cart */
+#shopbuttons {
+    clear: both;
+}
+
+
